@@ -1,18 +1,19 @@
 ---
+title: M Shajedur Rahman Shawon
+role: Epidemiologist
+avatar_filename: photo_oxfordgown_shawonmsr.png
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: M Shajedur Rahman Shawon
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Big Data Epidemiology
+  - Record-linkage studies
+  - Longitudinal studies
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,21 +29,22 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: DPhil in Population Health
+      institution: "University of Oxford, UK "
+      year: 2020
+    - course: MSc in Public Health Epidemiology
+      institution: Karolinska Institute, Sweden
+      year: 2016
+    - course: Masters in Public Health (MPH)
+      institution: "North South University, Bangladesh "
+      year: 2014
+    - course: Bachelor of Medicine and Bachelor of Surgery (MBBS)
+      institution: Dhaka Medical College, University of Dhaka, Bangladesh
+      year: 2011
+email: dr.shajedur@gmail.com
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
+Shawon has a strong background in clinical, public health, and epidemiological research through degrees in medicine and in public health from Bangladesh, an MSc Epidemiology from Karolinska Institute (Sweden) and doctoral training from Oxford (UK). He has researched into different chronic diseases (cancer, diabetes, obesity, respiratory comorbidity) using electronically-linked large-scale routine healthcare data from UK and Sweden. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, he is a Research Associate at the Centre for Big Data Research in Health in UNSW Sydney. He is also an elected Fellow of the UK Royal Society of Public Health.
