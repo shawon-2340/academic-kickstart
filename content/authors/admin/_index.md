@@ -8,8 +8,8 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include big data epidemiology, record-linkage
+  studies, and chronic diseases
 interests:
   - Big Data Epidemiology
   - Record-linkage studies
