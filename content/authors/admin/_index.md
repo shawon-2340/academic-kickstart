@@ -3,8 +3,8 @@ title: M Shajedur Rahman Shawon
 role: Epidemiologist
 avatar_filename: photo_oxfordgown_shawonmsr.png
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Centre for Big Data Research in Health, UNSW Sydney
+    url: https://cbdrh.med.unsw.edu.au/people/dr-md-shajedur-rahman-shawon
 superuser: true
 authors:
   - admin
