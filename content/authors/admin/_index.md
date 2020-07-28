@@ -31,7 +31,7 @@ education:
   courses:
     - course: DPhil in Population Health
       institution: "University of Oxford, UK "
-      year: 2020
+      year: 2019
     - course: MSc in Public Health Epidemiology
       institution: Karolinska Institute, Sweden
       year: 2016
